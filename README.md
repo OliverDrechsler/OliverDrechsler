@@ -21,7 +21,7 @@ Opinions are my own.
      VDR, Raspberry Pi, Python, .....  
 
 - 📫 How to reach me: ...  
-     twitter [@lolly_olmi](https://twitter.com/lolly_olmi)  
-     LinkedIn: [Oliver Drechsler](https://www.linkedin.com/in/oliver-drechsler-63628b10a/)  
-     Xing [Oliver Drechsler](https://www.xing.com/profile/Oliver_Drechsler5)  
+   twitter [@lolly_olmi](https://twitter.com/lolly_olmi)  
+   LinkedIn: [Oliver Drechsler](https://www.linkedin.com/in/oliver-drechsler-63628b10a/)  
+   Xing [Oliver Drechsler](https://www.xing.com/profile/Oliver_Drechsler5)  
 
