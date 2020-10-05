@@ -4,7 +4,7 @@
 
 ***DevOps Engineer for Network Automation  and Cloud Architect***  
 
-Opinions are my own.
+Thoughts, opinions and ideas are my own.
 
 *  🔭 Currently working on ...  
    **Raspberry Front Door Intercom Automation**  
