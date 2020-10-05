@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://github.com/OliverDrechsler/OliverDrechsler/blob/main/img/oli_d.jpg">
+<img align="right" width="100" height="145" src="https://github.com/OliverDrechsler/OliverDrechsler/blob/main/img/oli_d.jpg">
 
 # Oliver Drechsler 
 
