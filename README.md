@@ -7,9 +7,9 @@
 Thoughts, opinions and ideas are my own.
 
 *  🔭 Currently working on ...  
-   **Raspberry Front Door Intercom Automation**  
-   - with RasPi Zero Camera with Rest API,  
-   - with RasPi with connection to BTcino Intercom to open the Door  
+   **[Raspberry Front Door Intercom Automation](https://github.com/OliverDrechsler/front_door_intercom_automation)**  
+   - with RasPi Zero Camera with Rest API [PiCam_API](https://github.com/OliverDrechsler/PiCam_API)  
+   - with RasPi with connection to BTIcino Intercom to open the Door [docu can be found here](https://oliverdrechsler.github.io/front_door_intercom_automation/) 
    - send Telegram photo notification on door bell  
    - Apple IOS App for iPhone and Watch with geofencing and opening the door with (O)ne(T)ime(P)asswords through telegram privat group.
    - published soon....75% done....
