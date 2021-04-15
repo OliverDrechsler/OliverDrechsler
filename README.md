@@ -1,8 +1,14 @@
-# Oliver Drechsler 
+<h1 align='center'>
+Hi 👋 I'm Oliver Drechsler
+</h1>
 <img align="right" width="100" height="145" src="https://github.com/OliverDrechsler/OliverDrechsler/blob/main/img/oli_d.jpg">
-
+<p align='center'>
 ![github](https://img.shields.io/github/followers/OliverDrechsler?style=social)
 ![twitter](https://img.shields.io/twitter/follow/lolly_olmi?style=social)
+</p>
+<p align='center'>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="de_DE" data-type="horizontal" data-theme="light" data-vanity="oliver-drechsler-63628b10a"><a class="LI-simple-link" href='https://de.linkedin.com/in/oliver-drechsler-63628b10a?trk=profile-badge'>Oliver Drechsler</a></div>
+</p>
 
 ***DevOps Engineer, Cloud Architect, Trail-Runner, Marathon Runner, Triathlate and Dad***  
 
