@@ -43,6 +43,3 @@ Hi 👋 I'm Oliver Drechsler
    Stackoverflow [Oliver Drechsler](https://stackoverflow.com/users/13054340/oliver-d)  
 
 - My business life:....
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="de_DE" data-type="vertical" data-theme="dark" data-vanity="oliver-drechsler-63628b10a"><a class="LI-simple-link" href='https://de.linkedin.com/in/oliver-drechsler-63628b10a?trk=profile-badge'>Oliver Drechsler</a></div>
-
-
