@@ -36,9 +36,38 @@ Hi 👋 I'm Oliver Drechsler
      VDR, Raspberry Pi, Programming Languages, Linux, .....  
 
 - 📫 How to reach me: ...  
-   twitter [@lolly_olmi](https://twitter.com/lolly_olmi)  
-   LinkedIn: [Oliver Drechsler](https://www.linkedin.com/in/oliver-drechsler-63628b10a/)  
-   Xing [Oliver Drechsler](https://www.xing.com/profile/Oliver_Drechsler5)  
-   Stackoverflow [Oliver Drechsler](https://stackoverflow.com/users/13054340/oliver-d)  
+<a href="https://twitter.com/lolly_olmi">
+  <img
+      alt="Twitter"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+    />
+</a>  
+   <a href="https://www.linkedin.com/in/oliver-drechsler-63628b10a/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>  
+   <a href="https://www.xing.com/profile/Oliver_Drechsler5">
+  <img
+    alt="XING"
+    src="https://img.shields.io/badge/XING-Oliver%20Drechsler-green"
+  />
+</a>
+</a>  
+   <a href="https://stackoverflow.com/users/13054340/oliver-d">
+  <img
+    alt="Stackoverflow"
+    src="https://img.shields.io/badge/StackOverflow-Oliver%20Drechsler-green"
+  />
+</a>  
+<a href="oliver.drechsler@protonmail.com">
+  <img
+    alt="ProtonMail"
+    src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"
+  />
+</a>  
 
-- My business life:....
+
+- My business life:
+  ....
