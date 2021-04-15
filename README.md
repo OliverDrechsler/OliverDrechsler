@@ -19,7 +19,7 @@ Hi 👋 I'm Oliver Drechsler
 
 
 *  🔭 Currently working on ...  
-   - **[Raspberry Front Door Intercom Automation](https://github.com/OliverDrechsler/front_door_intercom_automation)** [![Visits Badge](https://badges.pufler.dev/visits/OliverDrechsler/front_door_intercom_automation)](https://badges.pufler.dev)  
+   - **[Raspberry Front Door Intercom Automation](https://github.com/OliverDrechsler/front_door_intercom_automation)**  
    - with RasPi Zero Camera with Rest API [PiCam_API](https://github.com/OliverDrechsler/PiCam_API)
    - and Blink Camera additionally  
    - with RasPi with connection to BTIcino Intercom to open the Door [docu can be found here](https://oliverdrechsler.github.io/front_door_intercom_automation/) 
