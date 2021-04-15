@@ -25,9 +25,8 @@ Hi 👋 I'm Oliver Drechsler
    - with RasPi with connection to BTIcino Intercom to open the Door [docu can be found here](https://oliverdrechsler.github.io/front_door_intercom_automation/) 
    - send Telegram photo notification on door bell ring  
    - Apple IOS App for iPhone and Watch with geofencing and opening the door with (O)ne(T)ime(P)asswords through telegram privat group.
-     - published soon....
-
-**Do you like it this open source project? [Nominate me to Github Stars ⭐](https://stars.github.com/nominate/)**
+     - published soon....  
+   - **Do you like it this open source project? [Mark it with a GitHub Star ⭐]**
 
 
 - 🌱 I’m currently developing and learning ...
