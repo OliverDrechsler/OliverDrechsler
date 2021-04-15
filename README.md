@@ -1,10 +1,14 @@
+# Oliver Drechsler 
 <img align="right" width="100" height="145" src="https://github.com/OliverDrechsler/OliverDrechsler/blob/main/img/oli_d.jpg">
 
-# Oliver Drechsler 
+![github](https://img.shields.io/github/followers/OliverDrechsler?style=social)
+![twitter](https://img.shields.io/twitter/follow/lolly_olmi?style=social)
 
-***DevOps Engineer for Network Automation  and Cloud Architect***  
+
+***DevOps Engineer, Cloud Architect, Trail-Runner, Triathlate and Dad***  
 
 Thoughts, opinions and ideas are my own.
+
 
 *  🔭 Currently working on ...  
    **[Raspberry Front Door Intercom Automation](https://github.com/OliverDrechsler/front_door_intercom_automation)**  
@@ -14,14 +18,15 @@ Thoughts, opinions and ideas are my own.
    - Apple IOS App for iPhone and Watch with geofencing and opening the door with (O)ne(T)ime(P)asswords through telegram privat group.
    - published soon....75% done....
   
-- 🌱 I’m currently learning ...
-     AppleScript, Groovy, Go and some more ... Azure IoT Solutions...  
+- 🌱 I’m currently developing and learning ...
+     AppleScript, Groovy, Go , Python, Java, Spring and some more ...
 
 - 💬 Ask me about ...  
-     VDR, Raspberry Pi, Python, .....  
+     VDR, Raspberry Pi, Programming Languages, Linux, .....  
 
 - 📫 How to reach me: ...  
    twitter [@lolly_olmi](https://twitter.com/lolly_olmi)  
    LinkedIn: [Oliver Drechsler](https://www.linkedin.com/in/oliver-drechsler-63628b10a/)  
    Xing [Oliver Drechsler](https://www.xing.com/profile/Oliver_Drechsler5)  
+   Stackoverflow [Oliver Drechsler](https://stackoverflow.com/users/13054340/oliver-d)  
 
