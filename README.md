@@ -5,7 +5,7 @@
 ![twitter](https://img.shields.io/twitter/follow/lolly_olmi?style=social)
 
 
-***DevOps Engineer, Cloud Architect, Trail-Runner, Triathlate and Dad***  
+***DevOps Engineer, Cloud Architect, Trail-Runner, Marathon Runner, Triathlate and Dad***  
 
 Thoughts, opinions and ideas are my own.
 
