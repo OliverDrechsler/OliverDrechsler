@@ -36,7 +36,7 @@ Hi 👋 I'm Oliver Drechsler
 - 💬 Ask me about ...  
      VDR, Raspberry Pi, Programming Languages, Linux, .....  
 
-- 📫 How to reach me: ...  
+- 📫 Connect with me:: ...  
 <a href="https://twitter.com/lolly_olmi">
   <img
       alt="Twitter"
@@ -71,6 +71,6 @@ Hi 👋 I'm Oliver Drechsler
   ....
 
 <details>
-  <summary>Imprint and GDPDR / Impressum und DSGVO</summary>
+  <summary>📚 Imprint and GDPDR / Impressum und DSGVO</summary>
 
    <a href="https://github.com/OliverDrechsler/Impressum" onclick="popup=window.open('https://github.com/OliverDrechsler/Impressum','Impressumpopup','width=580,height=635'); return false;">click here to see Imprint / Impressum</a>
