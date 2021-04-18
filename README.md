@@ -70,6 +70,6 @@ Hi 👋 I'm Oliver Drechsler
 <details>
   <summary>📚 Imprint and GDPDR / Impressum und DSGVO</summary>
 
-   <a href="https://github.com/OliverDrechsler/OliverDrechsler#IMPRESSUM" onclick="popup=window.open('https://github.com/OliverDrechsler/OliverDrechsler#IMPRESSUM','Imprintpopup','width=580,height=635'); return false;">click here to see Imprint / Impressum</a>
+  [IMPRESSUM](IMPRESSUM.md)
 
-   <a href="https://github.com/OliverDrechsler/OliverDrechsler#DSGVO" onclick="popup=window.open('https://github.com/OliverDrechsler/OliverDrechsler#DSGVO','DSGVOpopup','width=580,height=635'); return false;">click here to see GDPDR / DSGVO</a>
+  [DSGVO](DSGVO.md)
