@@ -19,7 +19,7 @@ Hi 👋 I'm Oliver Drechsler
 
 
 *  🔭 Currently working on ...  
-   - **[Raspberry Front Door Intercom Automation](https://oliverdrechsler.github.io/front_door_intercom_automation/)**  
+   - **[Raspberry Front Door Intercom Automation](https://github.com/OliverDrechsler/front_door_intercom_automation)**  
      - [with an extra RasPi Zero Camera with a Rest API - PiCam_API](https://github.com/OliverDrechsler/PiCam_API)
      - and Blink Camera control additionally  
      - connected to BTIcino Intercom
@@ -68,7 +68,7 @@ Hi 👋 I'm Oliver Drechsler
 </a>  
 
 <details>
-  <summary>📚 Imprint and GDPDR / Impressum und DSGVO</summary>
+  <summary>📚 Imprint and GDPDR / Impressum und DSGVO</summary>  
 
   [IMPRESSUM](IMPRESSUM.md)
 
