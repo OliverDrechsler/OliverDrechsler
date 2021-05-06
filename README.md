@@ -70,6 +70,6 @@ Hi 👋 I'm Oliver Drechsler
 <details>
   <summary>📚 Imprint and GDPDR / Impressum und DSGVO</summary>  
 
-  [IMPRESSUM](IMPRESSUM.md)
+  [IMPRESSUM](https://github.com/OliverDrechsler/OliverDrechsler/blob/Imprint_and_GDPR/IMPRESSUM.md)
 
-  [DSGVO](DSGVO.md)
+  [DSGVO](https://github.com/OliverDrechsler/OliverDrechsler/blob/Imprint_and_GDPR/DSGVO.md)
