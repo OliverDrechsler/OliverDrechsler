@@ -61,9 +61,9 @@ Hi 👋 I'm Oliver Drechsler
     src="https://img.shields.io/badge/StackOverflow-Oliver%20Drechsler-green"
   />
 </a>  
- <a href="https://mailhide.io/e/EFARUDrX">
+ <a href="https://mailhide.io/e/zUK7KX73">
   <img
-    src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"
+    src="https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=mail&logoColor=white"
   />
 </a>  
 
