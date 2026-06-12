@@ -25,8 +25,7 @@ Hi 👋 I'm Oliver Drechsler
      - connected to BTIcino Intercom
      - send Telegram door bell ring photo notification
      - open Door via message
-     - Apple IOS App for iPhone and Watch with geofencing and opening the door with (O)ne(T)ime(P)asswords through telegram privat group.
-       - published soon....  
+     - Apple IOS App for iPhone and Watch see [POC FDIA-IOS-App here](https://github.com/OliverDrechsler/FDIA_IOS_App)  
    - ***[Monitor ARP and DNS queries to wakeup a Server](https://github.com/OliverDrechsler/MADwaS)***
    - **Do you like it these open source projects? [Mark it with a GitHub Star ⭐]**
 
