@@ -2,8 +2,6 @@
 Hi 👋 I'm Oliver Drechsler
 </h1>
 
-<img align="right" width="100" height="145" src="https://github.com/OliverDrechsler/OliverDrechsler/blob/main/img/oli_d.jpg">
-
 <p align='center'>
 <img src="https://img.shields.io/github/followers/OliverDrechsler?style=social" />
 <img src="https://img.shields.io/twitter/follow/lolly_olmi?style=social" />
