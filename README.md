@@ -17,14 +17,14 @@ Hi 👋 I'm Oliver Drechsler
 
 
 *  🔭 Currently working on ...  
-   - **[Raspberry Front Door Intercom Automation](https://github.com/OliverDrechsler/front_door_intercom_automation)**  
-     - [with an extra RasPi Zero Camera with a Rest API - PiCam_API_2](https://github.com/OliverDrechsler/PiCam_API_2)
+   - **[Raspberry Pi - Front Door Intercom Automation - FDIA ](https://github.com/OliverDrechsler/front_door_intercom_automation)**  
+     - with an extra RasPi Zero or Zero 2w Camera with a Rest API **[PiCam_API_2](https://github.com/OliverDrechsler/PiCam_API_2)**
      - and Blink Camera control additionally  
      - connected to BTIcino Intercom
      - send Telegram door bell ring photo notification
      - open Door via message
-     - Apple IOS App for iPhone and Watch see [POC FDIA-IOS-App here](https://github.com/OliverDrechsler/FDIA_IOS_App)  
-   - ***[Monitor ARP and DNS queries to wakeup a Server](https://github.com/OliverDrechsler/MADwaS)***
+     - Apple IOS App for iPhone and Watch see PoC **[FDIA-IOS-App here](https://github.com/OliverDrechsler/FDIA_IOS_App)**  
+   - ***[MADwaS - Monitor ARP and DNS queries to wakeup a Server](https://github.com/OliverDrechsler/MADwaS)***
    - **Do you like it these open source projects? [Mark it with a GitHub Star ⭐]**
 
 - 🌱 I’m currently developing and learning ...
