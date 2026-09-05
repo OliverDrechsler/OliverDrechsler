@@ -20,7 +20,7 @@ Hi 👋 I'm Oliver Drechsler
 
 *  🔭 Currently working on ...  
    - **[Raspberry Front Door Intercom Automation](https://github.com/OliverDrechsler/front_door_intercom_automation)**  
-     - [with an extra RasPi Zero Camera with a Rest API - PiCam_API](https://github.com/OliverDrechsler/PiCam_API)
+     - [with an extra RasPi Zero Camera with a Rest API - PiCam_API_2](https://github.com/OliverDrechsler/PiCam_API_2)
      - and Blink Camera control additionally  
      - connected to BTIcino Intercom
      - send Telegram door bell ring photo notification
